@@ -14,17 +14,16 @@
 <a href="https://github.com/TobyG74/megumikato2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/TobyG74/ElainaBOT?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 <p align='center'>
-   <a href="https://twitter.com/tobz2k19"><img height="30" src="https://github.com/TobyG74/TobyG74/blob/main/twitter.png?raw=true"></a>&nbsp;&nbsp;
-   <a href="https://instagram.com/tobz2k19"><img height="30" src="https://github.com/TobyG74/TobyG74/blob/main/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
-   <a href="https://www.facebook.com/tobz2k19"><img height="30" src="https://github.com/TobyG74/TobyG74/blob/main/facebook.png?raw=true"></a>
+   <a href="https://twitter.com/AnwaDev"><img height="30" src="https://github.com/TobyG74/TobyG74/blob/main/twitter.png?raw=true"></a>&nbsp;&nbsp;
+   <a href="https://instagram.com/anwa_d3v"><img height="30" src="https://github.com/TobyG74/TobyG74/blob/main/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
 </P>
 
 ## Information
 
 - Change [ownerNumber](https://github.com/TobyG74/ElainaBOT/blob/df5caa20c74a1e76345a9664baa8dbc1b198da21/tobz.js#L248) in tobz.js to be your number
-ownerNumber = "6213xxxxxx@c.us"
+ownerNumber = "6282281917822@c.us"
 - Change [adminNumber](https://github.com/TobyG74/ElainaBOT/blob/main/lib/database/admin.json#L1) in admin.json to be your number
-[] -> ["62813xxxxxx@c.us"]
+[] -> ["6282281917822@c.us"]
 
 ## Contact
 

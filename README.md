@@ -211,8 +211,8 @@ after running it you need to scan the qr
 |       ✅        |   Getses                      |
 |       ✅        |   Banchat                      |
 |       ✅        |   Maintenance                      |
-|       ✅        |   Add Admin Elaina                      |
-|       ✅        |   Del Admin Elaina                      |
+|       ✅        |   Add Admin Anwa                      |
+|       ✅        |   Del Admin Anwa                      |
 |       ✅        |   Block                      |
 |       ✅        |   Unblock                      |
 |       ✅        |   Join Group                      |
